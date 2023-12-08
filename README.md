@@ -1,10 +1,10 @@
 # FW-Practica1
 Título: I-Chega
 
-Autores: Icíar Moreno López, Olga Chubinova y Jose Luis Salvador Martín
+Autor: Jose Luis Salvador Martín
 
 Link público al repositorio GitHub:
-https://github.com/IciarML/FW-Practica1.git
+https://github.com/n3kr00Gl00m/Web
 
 Descripción de elementos y subelementos:
 Elementos: Libros.
